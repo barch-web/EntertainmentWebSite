@@ -12,8 +12,8 @@ body{
 div .menu-container{
 	position: absolute;
 	width: 100%;
-	padding: 0px;
-	margin: 0px;
+	padding: 0;
+	margin: 0;
 }
 .logo{
 	height: 70px;
@@ -27,7 +27,7 @@ nav {
 	font-size: 16px;
 	width: 100%;
 	background-color: #FFFFFF;
-	margin: 0px;
+	margin: 0;
 	padding-bottom: 18px;
 	padding-top: 15px;
 	background: transparent;
@@ -35,7 +35,7 @@ nav {
 nav ul{
 	display: flex;
 	margin-bottom: 12px;
-	padding: 0px 0px 20px 320px
+	padding: 0 0 20px 320px
 }
 nav ul li{
 	list-style: none;
@@ -65,7 +65,7 @@ nav ul li a{
     color: black;
 	outline: none;
 	margin-right: 20px;
-	margin-left: 0px;
+	margin-left: 0;
 }
 .music-selection option{
     color: #ffff;
